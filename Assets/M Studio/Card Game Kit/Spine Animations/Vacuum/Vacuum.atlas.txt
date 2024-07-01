@@ -1,0 +1,92 @@
+Vacuum.png
+	size: 2025, 1587
+	filter: Linear, Linear
+	pma: true
+q_0
+	bounds: 2, 1427, 153, 111
+	offsets: 0, 23, 153, 134
+q_1
+	bounds: 2, 1206, 253, 212
+	offsets: 0, 34, 253, 246
+q_12
+	bounds: 97, 1540, 150, 45
+	offsets: 3, 0, 153, 45
+q_13
+	bounds: 257, 1135, 227, 323
+	offsets: 0, 0, 246, 323
+	rotate: 90
+q_14
+	bounds: 746, 1348, 189, 183
+q_15
+	bounds: 249, 1539, 153, 46
+q_16
+	bounds: 1642, 1275, 206, 240
+	rotate: 90
+q_17
+	bounds: 157, 1420, 117, 125
+	offsets: 7, 0, 124, 125
+	rotate: 90
+q_18
+	bounds: 901, 1075, 323, 253
+q_19
+	bounds: 1226, 981, 305, 333
+	rotate: 90
+q_2
+	bounds: 780, 442, 537, 602
+	offsets: 0, 0, 537, 606
+	rotate: 90
+q_20
+	bounds: 284, 1393, 154, 142
+q_21
+	bounds: 1412, 1288, 205, 228
+	rotate: 90
+q_22
+	bounds: 582, 1117, 229, 317
+	rotate: 90
+q_3
+	bounds: 2, 2, 1290, 438
+q_4
+	bounds: 1124, 1518, 67, 72
+	rotate: 90
+q_5
+	bounds: 1198, 1518, 67, 73
+	rotate: 90
+q_6
+	bounds: 2, 596, 776, 519
+q_7
+	bounds: 404, 1537, 48, 310
+	rotate: 90
+q_8
+	bounds: 815, 1533, 52, 307
+	rotate: 90
+q_9
+	bounds: 1273, 1510, 75, 294
+	offsets: 26, 0, 101, 312
+	rotate: 90
+shouzhang
+	bounds: 1569, 1495, 150, 90
+shupian
+	bounds: 937, 1330, 473, 178
+shupian_1
+	bounds: 716, 1535, 97, 50
+shupian_2
+	bounds: 45, 1555, 50, 30
+shupian_3
+	bounds: 2, 1559, 41, 26
+swithc
+	bounds: 1839, 1483, 184, 102
+xcr
+	bounds: 440, 1364, 304, 169
+zhituan
+	bounds: 1721, 1486, 116, 99
+
+Vacuum_2.png
+	size: 1970, 1165
+	filter: Linear, Linear
+	pma: true
+q_10
+	bounds: 2, 2, 1161, 1019
+	offsets: 0, 0, 1171, 1019
+	rotate: 90
+q_11
+	bounds: 1023, 59, 945, 1104

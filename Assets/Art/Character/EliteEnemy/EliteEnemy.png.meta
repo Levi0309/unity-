@@ -1,0 +1,882 @@
+fileFormatVersion: 2
+guid: 6b494c26caa41fd4b8fd4d78dbfc455a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1102658140494009503
+    second: EliteEnemy_0
+  - first:
+      213: 4272644142013868712
+    second: EliteEnemy_1
+  - first:
+      213: -1495046806309912475
+    second: EliteEnemy_2
+  - first:
+      213: -6647126375462219642
+    second: EliteEnemy_3
+  - first:
+      213: 4057402775550898489
+    second: EliteEnemy_4
+  - first:
+      213: 5550527398145924558
+    second: EliteEnemy_5
+  - first:
+      213: -4032397436892849873
+    second: EliteEnemy_6
+  - first:
+      213: 6405939543489631582
+    second: EliteEnemy_7
+  - first:
+      213: -499042314701933773
+    second: EliteEnemy_8
+  - first:
+      213: 2464334958557476822
+    second: EliteEnemy_9
+  - first:
+      213: 1526330279337852673
+    second: EliteEnemy_10
+  - first:
+      213: -5533795316931601310
+    second: EliteEnemy_11
+  - first:
+      213: 7211406628151423470
+    second: EliteEnemy_12
+  - first:
+      213: -8828788549906899537
+    second: EliteEnemy_13
+  - first:
+      213: -5987604910458970846
+    second: EliteEnemy_14
+  - first:
+      213: 5588596482866048898
+    second: EliteEnemy_15
+  - first:
+      213: 6508263655913700318
+    second: EliteEnemy_16
+  - first:
+      213: 5695926350908035808
+    second: EliteEnemy_17
+  - first:
+      213: -7933297778722264368
+    second: EliteEnemy_18
+  - first:
+      213: 3232817695677005860
+    second: EliteEnemy_19
+  - first:
+      213: -3779138373289645088
+    second: EliteEnemy_20
+  - first:
+      213: -8895443882128367151
+    second: EliteEnemy_21
+  - first:
+      213: -1734122746657379829
+    second: EliteEnemy_22
+  - first:
+      213: 6483678267802544745
+    second: EliteEnemy_23
+  - first:
+      213: 8853681038946836012
+    second: EliteEnemy_24
+  - first:
+      213: -7330937888917397234
+    second: EliteEnemy_25
+  - first:
+      213: 4397291004745858035
+    second: EliteEnemy_26
+  - first:
+      213: -8398281309135729579
+    second: EliteEnemy_27
+  - first:
+      213: -7991163571206743216
+    second: EliteEnemy_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EliteEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 650
+        width: 152
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b692b634292b0f0800000000000000
+      internalID: -1102658140494009503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 651
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aae360b53b7b4b30800000000000000
+      internalID: 4272644142013868712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 651
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560c05bc9d6804be0800000000000000
+      internalID: -1495046806309912475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 651
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680d17d87c9a0c3a0800000000000000
+      internalID: -6647126375462219642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 651
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931356bc35ace4830800000000000000
+      internalID: 4057402775550898489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 554
+        width: 200
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd9f8ab24f670d40800000000000000
+      internalID: 5550527398145924558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 554
+        width: 168
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f295ecc45eb0a08c0800000000000000
+      internalID: -4032397436892849873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 615
+        width: 149
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55d35e131876e850800000000000000
+      internalID: 6405939543489631582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 626
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3337d48a8ab0319f0800000000000000
+      internalID: -499042314701933773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 428
+        width: 308
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d735649693133220800000000000000
+      internalID: 2464334958557476822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 657
+        width: 153
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ffadd5d4d9e2510800000000000000
+      internalID: 1526330279337852673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 589
+        width: 131
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c52928a720433b0800000000000000
+      internalID: -5533795316931601310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_12
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 588
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1fcd1ee10141460800000000000000
+      internalID: 7211406628151423470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_13
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 642
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad53cd3797d97580800000000000000
+      internalID: -8828788549906899537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 478
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d55b0ce01c7eca0800000000000000
+      internalID: -5987604910458970846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_15
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 554
+        width: 191
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f6a3a34eeae8d40800000000000000
+      internalID: 5588596482866048898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_16
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 428
+        width: 154
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb3253105ff15a50800000000000000
+      internalID: 6508263655913700318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_17
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 398
+        width: 175
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e219ac76defb0f40800000000000000
+      internalID: 5695926350908035808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_18
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 542
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da2dd1e3b347e190800000000000000
+      internalID: -7933297778722264368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_19
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 535
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420cc66e0964ddc20800000000000000
+      internalID: 3232817695677005860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_20
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2
+        width: 563
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebe5071cadcd8bc0800000000000000
+      internalID: -3779138373289645088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_21
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 390
+        width: 138
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d121565be80d8480800000000000000
+      internalID: -8895443882128367151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_22
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 489
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0aef88bc882fe7e0800000000000000
+      internalID: -1734122746657379829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_23
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 2
+        width: 479
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a6a465807aaf950800000000000000
+      internalID: 6483678267802544745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_24
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 386
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e99010ff79eda70800000000000000
+      internalID: 8853681038946836012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_25
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2
+        width: 352
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0160acb4d6434a90800000000000000
+      internalID: -7330937888917397234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_26
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 310
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbb5e7fed0560d30800000000000000
+      internalID: 4397291004745858035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_27
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 180
+        width: 35
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c892535af437b80800000000000000
+      internalID: -8398281309135729579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteEnemy_28
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2
+        width: 51
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b1e2c221fa91190800000000000000
+      internalID: -7991163571206743216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EliteEnemy_0: -1102658140494009503
+      EliteEnemy_1: 4272644142013868712
+      EliteEnemy_10: 1526330279337852673
+      EliteEnemy_11: -5533795316931601310
+      EliteEnemy_12: 7211406628151423470
+      EliteEnemy_13: -8828788549906899537
+      EliteEnemy_14: -5987604910458970846
+      EliteEnemy_15: 5588596482866048898
+      EliteEnemy_16: 6508263655913700318
+      EliteEnemy_17: 5695926350908035808
+      EliteEnemy_18: -7933297778722264368
+      EliteEnemy_19: 3232817695677005860
+      EliteEnemy_2: -1495046806309912475
+      EliteEnemy_20: -3779138373289645088
+      EliteEnemy_21: -8895443882128367151
+      EliteEnemy_22: -1734122746657379829
+      EliteEnemy_23: 6483678267802544745
+      EliteEnemy_24: 8853681038946836012
+      EliteEnemy_25: -7330937888917397234
+      EliteEnemy_26: 4397291004745858035
+      EliteEnemy_27: -8398281309135729579
+      EliteEnemy_28: -7991163571206743216
+      EliteEnemy_3: -6647126375462219642
+      EliteEnemy_4: 4057402775550898489
+      EliteEnemy_5: 5550527398145924558
+      EliteEnemy_6: -4032397436892849873
+      EliteEnemy_7: 6405939543489631582
+      EliteEnemy_8: -499042314701933773
+      EliteEnemy_9: 2464334958557476822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7edb8eb7125ea44f68bbe616b44fa9bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205934
+  packageName: Colourful Hierarchy Category GameObject
+  packageVersion: 1.2
+  assetPath: Assets/M Studio/Colourful Hierarchy Category GameObject/Editor/ColorPalette.cs
+  uploadId: 486354

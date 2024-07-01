@@ -1,0 +1,64 @@
+JuicerKnight.png
+	size: 1493, 1041
+	filter: Linear, Linear
+	pma: true
+a_0
+	bounds: 393, 37, 232, 241
+a_1
+	bounds: 1196, 17, 185, 186
+	rotate: 90
+a_10
+	bounds: 1384, 116, 86, 107
+	rotate: 90
+a_11
+	bounds: 740, 12, 103, 133
+a_12
+	bounds: 1047, 42, 86, 34
+a_13
+	bounds: 943, 24, 102, 121
+a_14
+	bounds: 2, 280, 650, 759
+a_15
+	bounds: 654, 147, 540, 393
+a_16
+	bounds: 2, 7, 271, 389
+	offsets: 1, 1, 273, 391
+	rotate: 90
+a_2
+	bounds: 1398, 208, 81, 123
+a_3
+	bounds: 654, 542, 467, 497
+a_4
+	bounds: 1123, 571, 190, 227
+	offsets: 2, 1, 193, 229
+a_5
+	bounds: 1315, 603, 176, 195
+a_6
+	bounds: 845, 15, 96, 130
+	offsets: 1, 2, 98, 133
+a_7
+	bounds: 1123, 800, 294, 239
+	offsets: 0, 0, 305, 239
+a_8
+	bounds: 627, 2, 111, 143
+a_9
+	bounds: 1196, 438, 78, 49
+fx
+	bounds: 1315, 406, 176, 195
+scz
+	bounds: 943, 2, 20, 56
+	rotate: 90
+tr
+	bounds: 1196, 489, 80, 117
+	rotate: 90
+vreq
+	bounds: 1398, 333, 93, 71
+yanjingr
+	bounds: 1419, 899, 72, 140
+yanjingz
+	bounds: 1047, 78, 67, 131
+	rotate: 90
+yingyin
+	bounds: 1196, 204, 200, 200
+yte
+	bounds: 1419, 800, 64, 97

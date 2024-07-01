@@ -1,0 +1,142 @@
+Player.png
+	size: 1953, 844
+	filter: Linear, Linear
+	pma: true
+ld_datuir
+	bounds: 1691, 280, 108, 156
+	offsets: 12, 75, 155, 231
+	rotate: 90
+ld_datuiz
+	bounds: 1154, 179, 132, 175
+ld_guodu
+	bounds: 2, 367, 554, 475
+ld_huizhang
+	bounds: 1849, 219, 99, 104
+	offsets: 5, 0, 104, 104
+ld_jianjia
+	bounds: 1333, 385, 219, 229
+ld_jiaor
+	bounds: 2, 4, 172, 62
+ld_jiaoz
+	bounds: 176, 6, 147, 60
+ld_jiemaor
+	bounds: 668, 139, 26, 25
+ld_jiemaoz
+	bounds: 837, 132, 32, 24
+	rotate: 90
+ld_kouzhao
+	bounds: 893, 425, 253, 161
+	rotate: 90
+ld_kuijia
+	bounds: 1462, 46, 85, 164
+ld_kuzi
+	bounds: 893, 353, 161, 70
+ld_maofar
+	bounds: 1030, 2, 109, 72
+ld_maofaz
+	bounds: 837, 25, 191, 104
+ld_maozi
+	bounds: 2, 68, 478, 297
+ld_paodai
+	bounds: 1667, 116, 72, 106
+	rotate: 90
+ld_shenti
+	bounds: 1056, 356, 275, 260
+ld_shoubir
+	bounds: 1154, 2, 93, 175
+	offsets: 1, 0, 94, 175
+ld_shoubiz
+	bounds: 1049, 76, 83, 95
+	rotate: 90
+ld_shoupiaodai
+	bounds: 1775, 108, 80, 67
+	rotate: 90
+ld_shour
+	bounds: 1049, 161, 103, 190
+ld_shouzhangz
+	bounds: 482, 2, 133, 213
+	offsets: 2, 0, 138, 213
+	rotate: 90
+ld_ss
+	bounds: 1808, 229, 49, 25
+	rotate: 90
+ld_tou
+	bounds: 1705, 552, 290, 228
+	offsets: 8, 0, 311, 232
+	rotate: 90
+ld_toufa
+	bounds: 1704, 390, 244, 160
+ld_toufa2
+	bounds: 1249, 9, 168, 96
+	offsets: 0, 0, 168, 97
+	rotate: 90
+ld_toufa3
+	bounds: 1549, 52, 98, 113
+	offsets: 0, 10, 98, 123
+	rotate: 90
+ld_toufa4
+	bounds: 1347, 34, 113, 176
+	offsets: 0, 0, 125, 176
+ld_toufa5
+	bounds: 379, 5, 86, 61
+ld_toufa6
+	bounds: 1549, 152, 116, 105
+ld_toufa7
+	bounds: 1664, 22, 92, 104
+	rotate: 90
+ld_toufa8
+	bounds: 1065, 618, 334, 224
+ld_toufa9
+	bounds: 1849, 325, 63, 102
+	rotate: 90
+ld_touxie
+	bounds: 1401, 616, 302, 226
+	offsets: 28, 0, 369, 280
+ld_wuqi
+	bounds: 1691, 190, 115, 88
+ld_xiaotuir
+	bounds: 1554, 259, 135, 152
+ld_xiaotuiz
+	bounds: 697, 12, 138, 152
+	offsets: 15, 0, 153, 152
+ld_yangtoumaozi
+	bounds: 558, 368, 310, 333
+	rotate: 90
+ld_yanjing
+	bounds: 1861, 34, 58, 78
+ld_yanjingz
+	bounds: 1770, 20, 89, 86
+	offsets: 2, 0, 103, 86
+ld_yanpir
+	bounds: 325, 2, 64, 52
+	rotate: 90
+ld_yanpiz
+	bounds: 1844, 166, 92, 51
+ld_zhengtou
+	bounds: 558, 680, 505, 162
+paopao2
+	bounds: 1554, 413, 148, 201
+	offsets: 22, 14, 187, 228
+paopao3
+	bounds: 1333, 212, 171, 213
+	offsets: 5, 4, 187, 228
+	rotate: 90
+poapao4
+	bounds: 870, 131, 177, 220
+	offsets: 2, 1, 187, 228
+yingyin
+	bounds: 668, 166, 200, 200
+z
+	bounds: 1288, 307, 47, 38
+	offsets: 1, 1, 50, 40
+	rotate: 90
+z1
+	bounds: 1347, 2, 30, 23
+	offsets: 2, 2, 33, 26
+	rotate: 90
+z2
+	bounds: 482, 137, 184, 228
+	offsets: 1, 1, 189, 230
+z4
+	bounds: 1844, 114, 65, 50
+	offsets: 1, 1, 67, 52

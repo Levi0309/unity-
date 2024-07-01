@@ -1,0 +1,59 @@
+PlateKnight.png
+	size: 1956, 690
+	filter: Linear, Linear
+	pma: true
+q_0
+	bounds: 1358, 110, 249, 219
+q_1
+	bounds: 1737, 463, 192, 225
+	offsets: 0, 0, 195, 225
+q_10
+	bounds: 1491, 25, 111, 83
+q_11
+	bounds: 204, 51, 168, 159
+q_12
+	bounds: 1609, 73, 107, 79
+q_13
+	bounds: 374, 60, 131, 150
+q_14
+	bounds: 1718, 41, 112, 124
+	offsets: 3, 0, 115, 124
+	rotate: 90
+q_15
+	bounds: 1855, 110, 95, 96
+	rotate: 90
+q_16
+	bounds: 831, 28, 291, 289
+	offsets: 1, 1, 293, 291
+q_17
+	bounds: 1358, 24, 131, 84
+q_18
+	bounds: 511, 320, 431, 368
+q_19
+	bounds: 2, 212, 507, 476
+q_2
+	bounds: 1710, 155, 143, 152
+q_3
+	bounds: 511, 2, 318, 316
+q_4
+	bounds: 1342, 331, 393, 357
+q_5
+	bounds: 1609, 154, 175, 99
+	rotate: 90
+q_6
+	bounds: 1855, 207, 100, 99
+	rotate: 90
+q_7
+	bounds: 944, 319, 369, 396
+	rotate: 90
+q_8
+	bounds: 1124, 14, 303, 232
+	rotate: 90
+q_9
+	bounds: 1737, 309, 152, 166
+	rotate: 90
+shouzhi
+	bounds: 1844, 29, 79, 80
+	rotate: 90
+yingyin
+	bounds: 2, 10, 200, 200

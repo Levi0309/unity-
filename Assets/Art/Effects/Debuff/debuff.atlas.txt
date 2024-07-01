@@ -1,0 +1,6 @@
+debuff.png
+	size: 237, 228
+	filter: Linear, Linear
+	pma: true
+debuff
+	bounds: 2, 2, 233, 224

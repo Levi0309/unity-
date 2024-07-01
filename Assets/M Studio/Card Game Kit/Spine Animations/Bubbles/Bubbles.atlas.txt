@@ -1,0 +1,96 @@
+Bubbles.png
+	size: 1983, 1809
+	filter: Linear, Linear
+	pma: true
+cd
+	bounds: 1851, 1568, 130, 117
+q_0
+	bounds: 551, 2, 327, 433
+	offsets: 5, 33, 332, 466
+q_1
+	bounds: 757, 1155, 524, 652
+q_10
+	bounds: 1229, 33, 157, 155
+	rotate: 90
+q_11
+	bounds: 1178, 439, 168, 255
+	offsets: 18, 0, 186, 255
+q_12
+	bounds: 533, 1146, 222, 661
+q_13
+	bounds: 1273, 782, 162, 57
+q_14
+	bounds: 1178, 992, 161, 103
+	rotate: 90
+q_15
+	bounds: 1770, 1034, 207, 264
+q_16
+	bounds: 2, 407, 699, 507
+	offsets: 0, 0, 702, 507
+	rotate: 90
+q_17
+	bounds: 721, 1114, 30, 178
+	rotate: 90
+q_18
+	bounds: 533, 1111, 33, 186
+	rotate: 90
+q_19
+	bounds: 511, 437, 665, 669
+	offsets: 0, 100, 665, 769
+q_2
+	bounds: 1273, 697, 80, 80
+q_20
+	bounds: 2, 22, 313, 383
+q_21
+	bounds: 1706, 7, 223, 260
+	rotate: 90
+q_22
+	bounds: 1743, 516, 224, 261
+q_23
+	bounds: 1851, 1687, 130, 120
+q_24
+	bounds: 1178, 696, 145, 93
+	rotate: 90
+q_25
+	bounds: 2, 1108, 699, 529
+	offsets: 0, 0, 699, 530
+	rotate: 90
+q_26
+	bounds: 317, 25, 232, 380
+q_27
+	bounds: 1386, 39, 151, 281
+	rotate: 90
+q_28
+	bounds: 1706, 232, 269, 282
+q_29
+	bounds: 1348, 192, 356, 476
+	offsets: 37, 6, 393, 482
+q_3
+	bounds: 1355, 727, 53, 53
+q_30
+	bounds: 880, 20, 415, 347
+	rotate: 90
+q_4
+	bounds: 1851, 1441, 125, 125
+q_5
+	bounds: 1851, 1300, 121, 139
+q_6
+	bounds: 1178, 843, 96, 62
+q_7
+	bounds: 1178, 907, 83, 99
+	rotate: 90
+q_8
+	bounds: 1283, 1303, 566, 504
+q_9
+	bounds: 2, 3, 17, 78
+	offsets: 1, 1, 20, 80
+	rotate: 90
+shou
+	bounds: 1770, 779, 253, 207
+	offsets: 0, 0, 259, 207
+	rotate: 90
+tou
+	bounds: 1283, 841, 460, 485
+	rotate: 90
+xcr
+	bounds: 1437, 670, 304, 169

@@ -1,0 +1,139 @@
+{
+"skeleton": { "hash": "CFtHh9UGRl4", "spine": "4.1.24", "x": -116.5, "y": -137.2, "width": 249.49, "height": 325.34 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" },
+	{ "name": "bone2", "parent": "root", "x": -81.77, "y": 159.52, "scaleX": 0.2555, "scaleY": 0.2555 },
+	{ "name": "bone3", "parent": "root", "x": 103.22, "y": 72.39, "scaleX": 0.2555, "scaleY": 0.2555 },
+	{ "name": "bone4", "parent": "root", "x": 68.37, "y": -108.58, "scaleX": 0.2555, "scaleY": 0.2555 }
+],
+"slots": [
+	{ "name": "buff", "bone": "bone", "attachment": "buff" },
+	{ "name": "buff2", "bone": "bone2", "attachment": "buff" },
+	{ "name": "buff3", "bone": "bone3", "attachment": "buff" },
+	{ "name": "buff4", "bone": "bone4", "attachment": "buff" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"buff": {
+				"buff": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 116.5, -112, -116.5, -112, -116.5, 112, 116.5, 112 ],
+					"hull": 4
+				}
+			},
+			"buff2": {
+				"buff": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 116.5, -112, -116.5, -112, -116.5, 112, 116.5, 112 ],
+					"hull": 4
+				}
+			},
+			"buff3": {
+				"buff": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 116.5, -112, -116.5, -112, -116.5, 112, 116.5, 112 ],
+					"hull": 4
+				}
+			},
+			"buff4": {
+				"buff": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 116.5, -112, -116.5, -112, -116.5, 112, 116.5, 112 ],
+					"hull": 4
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"buff": {
+		"slots": {
+			"buff": {
+				"rgba": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "buff" }
+				]
+			},
+			"buff2": {
+				"rgba": [
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.4333, "color": "ffffff00" }
+				]
+			},
+			"buff3": {
+				"rgba": [
+					{ "time": 0.4, "color": "ffffffff" },
+					{ "time": 0.5667, "color": "ffffff00" }
+				]
+			},
+			"buff4": {
+				"rgba": [
+					{ "time": 0.4, "color": "ffffffff" },
+					{ "time": 0.5667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"scale": [
+					{ "x": 0.102, "y": 0.102 },
+					{ "time": 0.1333, "x": 0.502, "y": 0.502 },
+					{ "time": 0.6667, "x": 0.863, "y": 0.863 }
+				]
+			},
+			"bone2": {
+				"translate": [
+					{
+						"x": -5.36,
+						"y": -156.84,
+						"curve": [ 0.222, -5.36, 0.444, -5.36, 0.226, -106.69, 0.444, 2.68 ]
+					},
+					{ "time": 0.6667, "x": -5.36, "y": 2.68 }
+				]
+			},
+			"bone3": {
+				"translate": [
+					{ "y": -72.39 },
+					{ "time": 0.5667, "y": 61.66 }
+				],
+				"scale": [
+					{ "x": 0.432, "y": 0.432 },
+					{ "time": 0.5667, "x": 0.823, "y": 0.823 }
+				]
+			},
+			"bone4": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 0.6667 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.6667, "y": 166.22 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 1.326, "y": 1.397 }
+				],
+				"shear": [
+					{ "curve": "stepped" },
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	}
+}
+}

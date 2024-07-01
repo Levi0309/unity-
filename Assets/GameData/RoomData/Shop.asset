@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fb53a6ebcb89246af62fad614b7b64, type: 3}
+  m_Name: Shop
+  m_EditorClassIdentifier: 
+  roomIcon: {fileID: 21300000, guid: e1741766f3c3e415787fbdd3e0d30a0e, type: 3}
+  roomType: 4
+  sceneToLoad:
+    m_AssetGUID: 5337fb82229274647aee688dc110584f
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

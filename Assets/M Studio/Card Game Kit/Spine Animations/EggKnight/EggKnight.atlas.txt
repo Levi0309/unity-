@@ -1,0 +1,31 @@
+EggKnight.png
+	size: 668, 1040
+	filter: Linear, Linear
+	pma: true
+q_0
+	bounds: 470, 644, 146, 196
+	rotate: 90
+q_1
+	bounds: 365, 535, 77, 77
+q_10
+	bounds: 328, 2, 72, 72
+q_11
+	bounds: 2, 49, 205, 324
+	rotate: 90
+q_2
+	bounds: 470, 792, 189, 246
+q_4
+	bounds: 637, 535, 27, 107
+q_5
+	bounds: 2, 614, 466, 424
+q_6
+	bounds: 470, 555, 95, 87
+q_7
+	bounds: 567, 536, 106, 68
+	rotate: 90
+q_8
+	bounds: 365, 76, 457, 273
+	rotate: 90
+q_9
+	bounds: 2, 256, 356, 361
+	rotate: 90
